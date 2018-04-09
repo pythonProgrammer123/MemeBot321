@@ -1,1 +1,1 @@
-worker: botthings.py python
+worker: python botthings.py
